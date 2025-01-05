@@ -1,7 +1,9 @@
 # A jupyter notebook to analyze Geo data
 
 this is a work in progress to analyze geographical data
-regarding plant diseases and plants. right now only the visualization works
+regarding plant diseases and plants. right now only the visualization works.
+The app does not need internet connection, one need to have downloaded into files and load and
+visualize them.
 
 # Installation
 
