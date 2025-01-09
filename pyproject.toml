@@ -9,5 +9,6 @@ dependencies = [
     "geopandas>=1.0.1",
     "ipywidgets>=8.1.5",
     "jupyterlab>=4.3.4",
+    "pyproject-toml>=0.1.0",
     "voila>=0.5.8",
 ]
